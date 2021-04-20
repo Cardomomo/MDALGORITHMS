@@ -1,0 +1,5 @@
+﻿**BASIC COMMANDS:**
+
+**mkdir: 	CREATE AND DELATE DIRECTORIES**
+
+**cd: 		NAVIGATE**
