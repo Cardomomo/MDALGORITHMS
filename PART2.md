@@ -1,12 +1,9 @@
-﻿
-**-** # \*\*GIT / GITHUB\*\*
+# **GIT / GITHUB**
 
-\*\*- Initial configuration\*\*
+**- Initial configuration**
 
-\```
-
+```
 git init
-
 git username
 
-\```
+```
