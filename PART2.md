@@ -50,9 +50,9 @@ Password for ‘https://	@github.com’:
 
 **-Delete a local branch unless it contains commits that have not been merged into any other local branches or pushed to a remote repository**
 
-**-Forcing the delete of a branch
+**-Forcing the delete of a branch**
 
-**-Delete a remote branch 
+**-Delete a remote branch**
 
 **-Save or commit by transmitting local brach commits**
 
@@ -73,7 +73,7 @@ git merge alias/nameofthebranch
 ```
 	brew install git-flow
 ```
-**-Installing it in Windows:(After installing git.flow**
+**-Installing it in Windows:(After installing git.flow)**
 ```
 	git flow init
 ```
