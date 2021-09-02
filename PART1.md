@@ -1,5 +1,10 @@
 # **COMMAND LINE**
 
+# **JUPYTER** 
+```
+jupyter notebook --browser safari
+```
+
 **- mkdir: Create directories**
 ```
 mkdir xxx
